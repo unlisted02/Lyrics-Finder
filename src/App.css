@@ -4,11 +4,12 @@
     height: auto;
     text-align: center;
     font-family: "Montserrat", sans-serif;
+    background-color: rgb(119, 249, 236);
 }
 
 h1 {
     font-family: "Fredoka One", cursive;
-    color: #ff7a8a;
+    color: #8c7affeb;
 }
 
 pre {
@@ -28,9 +29,13 @@ hr {
     margin: 0px 10px;
     padding-left: 6px;
     font-size: 22px;
+    border-color: rgb(1, 1, 1); 
+    background-color: rgb(123, 217, 140);
 }
 
 .btn {
     width: 90px;
     height: 40px;
+    border-color: rgb(1, 1, 1); 
+    background-color: rgb(239, 239, 239);
 }
